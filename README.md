@@ -35,5 +35,6 @@
 [linkedin]: https://www.linkedin.com/in/amonjot-singh-chhina-244b491b3/
 
 ![amonjotsingh's GitHub stats](https://github-readme-stats.vercel.app/api?username=amonjotsingh&show_icons=true&theme=radical)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amonjotsingh&show_icons=true&locale=en&layout=compact" alt="amonjotsingh" /></p>
 
 
