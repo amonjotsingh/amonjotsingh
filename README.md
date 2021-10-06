@@ -2,7 +2,7 @@
 
 ## I'm a Learner!!
 
-- 🌱 I’m currently learning FreeRTOS 🤣
+- 🌱 I’m currently learning FreeRTOS
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2021 Goals : Secure a job in Embedded Systems
 - ⚡ Fun fact: I love to draw and play cricket
@@ -31,4 +31,7 @@
 
 [instagram]: https://www.instagram.com/chhinajot/
 [linkedin]: https://www.linkedin.com/in/amonjot-singh-chhina-244b491b3/
+
+![amonjotsingh's GitHub stats](https://github-readme-stats.vercel.app/api?amonjotsingh=anuraghazra&show_icons=true&theme=radical)
+
 
