@@ -19,6 +19,7 @@
  <code> <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"> </code>
  <code> <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"> </code>
  <code> <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"> </code>
+ <code> <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sql/sql-original.svg"> </code>
 <br />
 <br />
 
