@@ -2,9 +2,9 @@
 
 ## I'm a Learner!!
 
-- 🌱 I’m currently learning FreeRTOS
+- 🌱 I’m currently learning JAVA 
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2021 Goals : Secure a job in Embedded Systems
+- 🥅 2022 Goals : Secure a job as software engineer
 - ⚡ Fun fact: I love to draw and play cricket
 
 ### Connect with me:
