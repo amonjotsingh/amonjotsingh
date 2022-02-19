@@ -2,7 +2,7 @@
 
 ## I'm a Learner!!
 
-- 🌱 I’m currently learning JAVA 
+- 🌱 I’m currently learning Data Structres and Algorithms
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2022 Goals : Secure a job as software engineer
 - ⚡ Fun fact: I love to draw and play cricket
